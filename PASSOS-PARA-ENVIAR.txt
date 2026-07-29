@@ -1,0 +1,20 @@
+1. Apague do GitHub: index.html, styles.css e app.js.
+2. Extraia este ZIP.
+3. Abra a pasta custo-certo-pronto.
+4. Arraste as pastas app, components, lib, public e supabase para o GitHub.
+5. Arraste também os arquivos da raiz.
+6. Clique em Commit changes.
+
+A raiz deve mostrar:
+app
+components
+lib
+public
+supabase
+.env.example
+.gitignore
+README.md
+next-env.d.ts
+next.config.ts
+package.json
+tsconfig.json
